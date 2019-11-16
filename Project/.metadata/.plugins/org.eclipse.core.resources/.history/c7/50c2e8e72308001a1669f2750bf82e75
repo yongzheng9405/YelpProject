@@ -43,7 +43,7 @@ public class SearchItem extends HttpServlet {
 		// DB operation
 		JSONArray array = new JSONArray();
 		for (Item item : items) {
-			array.put(item.toJSONObject());
+			array.put(item);
 		}
 		RpcHelper.writeJsonArray(response, array);
 		//response.getWriter().append("Served at: ").append(request.getContextPath());

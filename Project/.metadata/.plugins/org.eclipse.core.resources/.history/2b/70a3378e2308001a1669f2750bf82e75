@@ -85,7 +85,6 @@ public class YelpAPI {
 	/*
 	 * Helper methods
 	 */
-	//Convert JSONArray to a list of item objects
 	private List<Item> getItemList(JSONArray restaurants) throws JSONException {
 		List<Item> list = new ArrayList<>();
 		for (int i = 0; i < restaurants.length(); i++) {

@@ -5,7 +5,6 @@ INDEX VERSION 1.131+C:\MyStudy\YelpProject\Project\.metadata\.plugins\org.eclips
 799932949.index
 787512605.index
 492519084.index
-3290918552.index
 734360166.index
 4270226113.index
 3832526785.index

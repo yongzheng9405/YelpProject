@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\MyStudy\YelpProject\Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+749956457.index
+2096989615.index
+453787473.index
+1626105269.index
+1426140732.index
+3290918552.index
